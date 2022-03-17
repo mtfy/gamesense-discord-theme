@@ -1,6 +1,6 @@
 # 📸 Preview
 ![GameSense: BetterDiscord Theme by Motify](https://i.imgur.com/ILnBKMd.gif)
-Carbon inspired theme for BetterDiscord.
+Carbon inspired theme for [BetterDiscord](https://github.com/BetterDiscord/BetterDiscord).
 
 ## 💭 Business inquiries:
 + ![Discord](https://i.imgur.com/xY90BoB.png) __Discord__ ― [Motify#0033](https://href.li/?https://discord.com/users/850826026959372308/profile)
