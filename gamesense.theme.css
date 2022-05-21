@@ -1,6 +1,6 @@
 /**
  * @name GameSense 「gamesense.vip」
- * @version 1.0.3
+ * @version 1.0.4
  * @description Get Good. Get [GameSense](https://gamesense.vip/). 〡 Join to the [gamesense discord server](https://discord.gamesense.media).
  * @authorId 850826026959372308
  * @author Motify#0033
@@ -8,11 +8,11 @@
  * @source https://github.com/mtfy/gamesense-discord-theme
  * @updateUrl https://raw.githubusercontent.com/mtfy/gamesense-discord-theme/main/gamesense.theme.css
 **/
-@import url('https://gamesense.wiki/static/css/gamesense.theme.css');
-
-:root{
+@import url('https://gamesense.wiki/static/css/gamesense.theme.css?v=1.0.4');
+.theme-dark,.theme-light,:root{
     --title-gradient:linear-gradient( to right, #37b1da 0, #c948cd 50%, #cce335 100% );
-    --primary-color:#75a00d;
+    --primary-color:#66cc00;
+    --brand-experiment: #66cc00 !important;
     --outline-color:#0a0a0a;
     --outline-lightcolor:#303030;
     --app-color:#111;
@@ -36,6 +36,7 @@
     --background-primary:#141414 !important;
     --background-secondary:#111 !important;
     --background-secondary-alt:#292929 !important;
+    --brand-experiment-05a: #111111A6 !important;
     --background-tertiary:#0c0c0c !important;
     --background-accent:#242424 !important;
     --background-floating:black !important;
@@ -65,3 +66,4 @@
     --toast-box-shadow:rgba(0, 0, 0, 0.2) !important;
     --toast-border:var(--background-tertiary) !important
 }
+
